@@ -6,7 +6,7 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 
 from database.db_sqlite import Database
 
-API_TOKEN = '7062021126:AAFbpYJLw66da1KHN2HgobY9fIbXkU29vg4'
+API_TOKEN = '6632014248:AAFyXJkrzzhplANWrQYxzz1ZjV_pdHGCofI'
 
 logging.basicConfig(level=logging.INFO)
 
